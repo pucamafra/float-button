@@ -16,4 +16,4 @@ This is my first directive for AngularJS
     <span class="pl-e">icon</span>=<span class="pl-s1"><span class="pl-pds">"</span>ion-compose<span class="pl-pds">"</span></span>
 &lt;/<span class="pl-ent">float-button</span>>&gt;</pre>
 
-<img src="">
+
