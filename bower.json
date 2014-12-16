@@ -1,0 +1,25 @@
+{
+  "name": "angular-floatButton-directive",
+  "version": "1.0.0",
+  "authors": [
+    "Marlon Mafra <pucamafra@gmail.com>"
+  ],
+  "description": "Float Button from Android (Material Design)",
+  "main": "floatButton.js",
+  "keywords": [
+    "angularjs",
+    "angular",
+    "material",
+    "design",
+    "float",
+    "button"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
