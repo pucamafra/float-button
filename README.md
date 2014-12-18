@@ -14,3 +14,8 @@ This is my first directive for AngularJS
 <pre>&lt;float-button href="#/new-message" icon="ion-compose">&lt;/float-button&gt;</pre>
 
 
+
+<h2>license</h2>
+<p><a href="https://github.com/marlonMafra/float-button/blob/master/LICENSE">MIT License</a></p>
+
+
